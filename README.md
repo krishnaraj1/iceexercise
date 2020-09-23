@@ -1,6 +1,6 @@
 # ICE Exercise
 
-This exercise involves running python application that uses a Rabbitmq service to send and receive messages 
+This exercise involves running python application in kubernetes that uses a Rabbitmq service to send and receive messages 
 
 ## RabbitMQ Installation
 
